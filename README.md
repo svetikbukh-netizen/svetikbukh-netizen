@@ -1,11 +1,12 @@
-<p align="center">
-  <img width="400" height="250" src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"  alt="animated" />
-</p>
-
-### <p align="center"> 
+<div align="center">
+  <h2>Привет, я Светлана 👋</h2>
+  
+  <img src="https://raw.githubusercontent.com/svetikbukh-netizen/svetikbukh-netizen/main/1678052821_papik-pro-p-prostoi-risunok-devushka-za-kompyuterom-1.jpg" alt="Девушка за компьютером" width="400px"/>
+  
+  <p>Я Аналитик Данных. Добро пожаловать в мой цифровой мир.</p>
+  <br/>
+</div>
  
-
-# 🌟 Привет! Зовут меня Светлана 👋
 
 <div align="center">
 
