@@ -1,7 +1,7 @@
 
 <div align="right">
   
-  <img src="https://raw.githubusercontent.com/svetikbukh-netizen/svetikbukh-netizen/main/pngtree-3d-data-analytics-dashboard-with-rising-graph-on-transparent-background-png-image_19088845.jpg" alt="3D дашборд с графиками" width="250px"/>
+  <img src="https://raw.githubusercontent.com/svetikbukh-netizen/svetikbukh-netizen/main/pngtree-3d-data-analytics-dashboard-with-rising-graph-on-transparent-background-png-image_19088845.jpg" alt="3D дашборд с графиками" width="150px"/>
  <div align="center">
   <h2>Привет, меня зовут Светлана!👋 </h2
 
